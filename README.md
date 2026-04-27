@@ -82,6 +82,15 @@ The dataset includes:
 - KPI Summary (Revenue, Profit, Orders)
 - Clean and professional layout
 
+Visualization:
+
+<img width="1709" height="805" alt="line chart of sales trend" src="https://github.com/user-attachments/assets/77df946a-90f4-4fb0-8545-fc884e51ce86" />
+<img width="1679" height="734" alt="box and whisker plot " src="https://github.com/user-attachments/assets/1a0bb6ce-4f6b-4a8e-8939-2c63dee631af" />
+<img width="1337" height="521" alt="table" src="https://github.com/user-attachments/assets/c2163c15-9388-4c0c-b704-cd7d1633d129" />
+
+
+
+
 
 
 🚀 Future Improvements
@@ -92,4 +101,10 @@ The dataset includes:
 
 📌 Conclusion
 This project showcases how Excel can be used as a powerful data analysis tool to extract business insights and support decision-making.
+
+
+
+
+
+
  
